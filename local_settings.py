@@ -7,4 +7,4 @@ MY_ACCESS_TOKEN_SECRET = '7yptLmn7gUZFdoHd9ARvVTuesisv7KcMptlaRjkkZ2WPM'
 SOURCE_ACCOUNT = "@pixeldiva" #The Twitter handle of the account that you'll generate tweets based on.
 ODDS = 0 #How often do you want this to run? 1/8 times?
 ORDER = 2 #how closely do you want this to hew to sensical? 1 is low and 3 is high.
-DEBUG = True #Set this to False to start Tweeting live
+DEBUG = False #Set this to False to start Tweeting live
